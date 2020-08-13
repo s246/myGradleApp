@@ -1,0 +1,5 @@
+Milk: 0, $3.75, $3.50, Tax-Exempt
+Red Bull: 5, $4.30, $4.00, Taxable
+Flour: 0, $3.10, $2.75, Tax-Exempt
+Cola: 4, $1.10, $1.75, Taxable
+Chips: 19, $2.10, $2.75, Tax-Exempt
